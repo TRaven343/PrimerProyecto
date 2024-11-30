@@ -6,6 +6,7 @@ Este modelo es bastante básico. Se generan datos aleatorios con un nombre y una
 
 Capturas de pantalla:
 Interfaz
+
 ![1](https://github.com/user-attachments/assets/3e217992-7f7d-4754-a8f1-7884a34587fd)
 
 Programa en ejecución
