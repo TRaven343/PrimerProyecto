@@ -1,0 +1,132 @@
+G:\Tareas\Seminario de sistemas operativos\Programa 1\programa 1\programa 1\bin\Debug\programa 1.exe.config
+G:\Tareas\Seminario de sistemas operativos\Programa 1\programa 1\programa 1\bin\Debug\programa 1.exe
+G:\Tareas\Seminario de sistemas operativos\Programa 1\programa 1\programa 1\bin\Debug\programa 1.pdb
+G:\Tareas\Seminario de sistemas operativos\Programa 1\programa 1\programa 1\obj\Debug\programa 1.csproj.AssemblyReference.cache
+G:\Tareas\Seminario de sistemas operativos\Programa 1\programa 1\programa 1\obj\Debug\programa 1.csproj.SuggestedBindingRedirects.cache
+G:\Tareas\Seminario de sistemas operativos\Programa 1\programa 1\programa 1\obj\Debug\programa_1.ProcesamientoPorLotes.resources
+G:\Tareas\Seminario de sistemas operativos\Programa 1\programa 1\programa 1\obj\Debug\programa_1.Properties.Resources.resources
+G:\Tareas\Seminario de sistemas operativos\Programa 1\programa 1\programa 1\obj\Debug\programa 1.csproj.GenerateResource.cache
+G:\Tareas\Seminario de sistemas operativos\Programa 1\programa 1\programa 1\obj\Debug\programa 1.csproj.CoreCompileInputs.cache
+G:\Tareas\Seminario de sistemas operativos\Programa 1\programa 1\programa 1\obj\Debug\programa 1.exe
+G:\Tareas\Seminario de sistemas operativos\Programa 1\programa 1\programa 1\obj\Debug\programa 1.pdb
+H:\Escritorio\Programa 1\programa 1\programa 1\bin\Debug\programa 1.exe.config
+H:\Escritorio\Programa 1\programa 1\programa 1\bin\Debug\programa 1.exe
+H:\Escritorio\Programa 1\programa 1\programa 1\bin\Debug\programa 1.pdb
+H:\Escritorio\Programa 1\programa 1\programa 1\obj\Debug\programa 1.csproj.AssemblyReference.cache
+H:\Escritorio\Programa 1\programa 1\programa 1\obj\Debug\programa 1.csproj.SuggestedBindingRedirects.cache
+H:\Escritorio\Programa 1\programa 1\programa 1\obj\Debug\programa_1.ProcesamientoPorLotes.resources
+H:\Escritorio\Programa 1\programa 1\programa 1\obj\Debug\programa_1.Properties.Resources.resources
+H:\Escritorio\Programa 1\programa 1\programa 1\obj\Debug\programa 1.csproj.GenerateResource.cache
+H:\Escritorio\Programa 1\programa 1\programa 1\obj\Debug\programa 1.csproj.CoreCompileInputs.cache
+H:\Escritorio\Programa 1\programa 1\programa 1\obj\Debug\programa 1.exe
+H:\Escritorio\Programa 1\programa 1\programa 1\obj\Debug\programa 1.pdb
+G:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\bin\Debug\programa 1.exe.config
+G:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\bin\Debug\programa 1.exe
+G:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\bin\Debug\programa 1.pdb
+G:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.csproj.AssemblyReference.cache
+G:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.csproj.SuggestedBindingRedirects.cache
+G:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa_1.ProcesamientoPorLotes.resources
+G:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa_1.Properties.Resources.resources
+G:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.csproj.GenerateResource.cache
+G:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.csproj.CoreCompileInputs.cache
+G:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.exe
+G:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.pdb
+D:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\bin\Debug\programa 1.exe.config
+D:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\bin\Debug\programa 1.exe
+D:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\bin\Debug\programa 1.pdb
+D:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.csproj.AssemblyReference.cache
+D:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.csproj.SuggestedBindingRedirects.cache
+D:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa_1.ProcesamientoPorLotes.resources
+D:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa_1.Properties.Resources.resources
+D:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.csproj.GenerateResource.cache
+D:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.csproj.CoreCompileInputs.cache
+D:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.exe
+D:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.pdb
+J:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\bin\Debug\programa 1.exe.config
+J:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\bin\Debug\programa 1.exe
+J:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\bin\Debug\programa 1.pdb
+J:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.csproj.AssemblyReference.cache
+J:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.csproj.SuggestedBindingRedirects.cache
+J:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa_1.ProcesamientoPorLotes.resources
+J:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa_1.Properties.Resources.resources
+J:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.csproj.GenerateResource.cache
+J:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.csproj.CoreCompileInputs.cache
+J:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.exe
+J:\Tareas\Seminario de sistemas operativos\Programa 1 copia\programa 1\programa 1\obj\Debug\programa 1.pdb
+D:\Tareas\Seminario de sistemas operativos\Programa parte 2\programa 1\programa 1\bin\Debug\programa 1.exe.config
+D:\Tareas\Seminario de sistemas operativos\Programa parte 2\programa 1\programa 1\bin\Debug\programa 1.exe
+D:\Tareas\Seminario de sistemas operativos\Programa parte 2\programa 1\programa 1\bin\Debug\programa 1.pdb
+D:\Tareas\Seminario de sistemas operativos\Programa parte 2\programa 1\programa 1\obj\Debug\programa 1.csproj.AssemblyReference.cache
+D:\Tareas\Seminario de sistemas operativos\Programa parte 2\programa 1\programa 1\obj\Debug\programa 1.csproj.SuggestedBindingRedirects.cache
+D:\Tareas\Seminario de sistemas operativos\Programa parte 2\programa 1\programa 1\obj\Debug\programa_1.ProcesamientoPorLotes.resources
+D:\Tareas\Seminario de sistemas operativos\Programa parte 2\programa 1\programa 1\obj\Debug\programa_1.Properties.Resources.resources
+D:\Tareas\Seminario de sistemas operativos\Programa parte 2\programa 1\programa 1\obj\Debug\programa 1.csproj.GenerateResource.cache
+D:\Tareas\Seminario de sistemas operativos\Programa parte 2\programa 1\programa 1\obj\Debug\programa 1.csproj.CoreCompileInputs.cache
+D:\Tareas\Seminario de sistemas operativos\Programa parte 2\programa 1\programa 1\obj\Debug\programa 1.exe
+D:\Tareas\Seminario de sistemas operativos\Programa parte 2\programa 1\programa 1\obj\Debug\programa 1.pdb
+D:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\bin\Debug\programa 1.exe.config
+D:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\bin\Debug\programa 1.exe
+D:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\bin\Debug\programa 1.pdb
+D:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa 1.csproj.AssemblyReference.cache
+D:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa 1.csproj.SuggestedBindingRedirects.cache
+D:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa_1.ProcesamientoPorLotes.resources
+D:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa_1.Properties.Resources.resources
+D:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa 1.csproj.GenerateResource.cache
+D:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa 1.csproj.CoreCompileInputs.cache
+D:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa 1.exe
+D:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa 1.pdb
+J:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\bin\Debug\programa 1.exe.config
+J:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\bin\Debug\programa 1.exe
+J:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\bin\Debug\programa 1.pdb
+J:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa 1.csproj.AssemblyReference.cache
+J:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa 1.csproj.SuggestedBindingRedirects.cache
+J:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa_1.ProcesamientoPorLotes.resources
+J:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa_1.Properties.Resources.resources
+J:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa 1.csproj.GenerateResource.cache
+J:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa 1.csproj.CoreCompileInputs.cache
+J:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa 1.exe
+J:\Tareas\Seminario de sistemas operativos\Programa 1 parte 2\programa 1\programa 1\obj\Debug\programa 1.pdb
+K:\Escritorio\Copia de seguridad\programa 1\programa 1\bin\Debug\programa 1.exe.config
+K:\Escritorio\Copia de seguridad\programa 1\programa 1\bin\Debug\programa 1.exe
+K:\Escritorio\Copia de seguridad\programa 1\programa 1\bin\Debug\programa 1.pdb
+K:\Escritorio\Copia de seguridad\programa 1\programa 1\obj\Debug\programa 1.csproj.AssemblyReference.cache
+K:\Escritorio\Copia de seguridad\programa 1\programa 1\obj\Debug\programa 1.csproj.SuggestedBindingRedirects.cache
+K:\Escritorio\Copia de seguridad\programa 1\programa 1\obj\Debug\programa_1.ProcesamientoPorLotes.resources
+K:\Escritorio\Copia de seguridad\programa 1\programa 1\obj\Debug\programa_1.Properties.Resources.resources
+K:\Escritorio\Copia de seguridad\programa 1\programa 1\obj\Debug\programa 1.csproj.GenerateResource.cache
+K:\Escritorio\Copia de seguridad\programa 1\programa 1\obj\Debug\programa 1.csproj.CoreCompileInputs.cache
+K:\Escritorio\Copia de seguridad\programa 1\programa 1\obj\Debug\programa 1.exe
+K:\Escritorio\Copia de seguridad\programa 1\programa 1\obj\Debug\programa 1.pdb
+J:\Tareas\programa 1\programa 1\bin\Debug\programa 1.exe.config
+J:\Tareas\programa 1\programa 1\bin\Debug\programa 1.exe
+J:\Tareas\programa 1\programa 1\bin\Debug\programa 1.pdb
+J:\Tareas\programa 1\programa 1\obj\Debug\programa 1.csproj.AssemblyReference.cache
+J:\Tareas\programa 1\programa 1\obj\Debug\programa 1.csproj.SuggestedBindingRedirects.cache
+J:\Tareas\programa 1\programa 1\obj\Debug\programa_1.ProcesamientoPorLotes.resources
+J:\Tareas\programa 1\programa 1\obj\Debug\programa_1.Properties.Resources.resources
+J:\Tareas\programa 1\programa 1\obj\Debug\programa 1.csproj.GenerateResource.cache
+J:\Tareas\programa 1\programa 1\obj\Debug\programa 1.csproj.CoreCompileInputs.cache
+J:\Tareas\programa 1\programa 1\obj\Debug\programa 1.exe
+J:\Tareas\programa 1\programa 1\obj\Debug\programa 1.pdb
+J:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\bin\Debug\programa 1.exe.config
+J:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\bin\Debug\programa 1.exe
+J:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\bin\Debug\programa 1.pdb
+J:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa 1.csproj.AssemblyReference.cache
+J:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa 1.csproj.SuggestedBindingRedirects.cache
+J:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa_1.ProcesamientoPorLotes.resources
+J:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa_1.Properties.Resources.resources
+J:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa 1.csproj.GenerateResource.cache
+J:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa 1.csproj.CoreCompileInputs.cache
+J:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa 1.exe
+J:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa 1.pdb
+E:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\bin\Debug\programa 1.exe.config
+E:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\bin\Debug\programa 1.exe
+E:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\bin\Debug\programa 1.pdb
+E:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa 1.csproj.AssemblyReference.cache
+E:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa 1.csproj.SuggestedBindingRedirects.cache
+E:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa_1.ProcesamientoPorLotes.resources
+E:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa_1.Properties.Resources.resources
+E:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa 1.csproj.GenerateResource.cache
+E:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa 1.csproj.CoreCompileInputs.cache
+E:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa 1.exe
+E:\Tareas\Seminario de sistemas operativos\programa 1 final\programa 1\programa 1\obj\Debug\programa 1.pdb

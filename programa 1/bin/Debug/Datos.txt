@@ -1,0 +1,39 @@
+Lote: 1
+1. Angela
+72 - 30 
+TME: 12
+2. Hugo
+97 * 36 
+TME: 7
+3. Angela
+96 / 30 
+TME: 5
+4. Liz
+70 / 24 
+TME: 6
+Lote: 2
+5. Paco
+53 / 45 
+TME: 8
+6. Maria
+53 * 36 
+TME: 9
+7. Jorge
+69 * 30 
+TME: 11
+8. Luis
+97 / 7 
+TME: 7
+9. Hector
+50 / 18 
+TME: 12
+Lote: 3
+10. Luis
+87 / 31 
+TME: 6
+11. Paco
+53 + 47 
+TME: 7
+12. Alondra
+76 + 41 
+TME: 7

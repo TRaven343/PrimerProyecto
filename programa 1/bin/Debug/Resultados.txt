@@ -1,0 +1,38 @@
+Lote: 1
+1. Alondra
+86 + 47  = 133
+
+2. Eduardo
+83 + 11  = 94
+
+3. Alondra
+95 + 27  = 122
+
+4. Pedro
+77 / 35  = 2
+
+5. Liz
+98 + 48  = 146
+
+Lote: 2
+6. Eduardo
+54 + 44  = 98
+
+7. Paco
+90 / 44  = 2
+
+8. Hector
+92 - 44  = 48
+
+9. Hugo
+51 + 14  = 65
+
+10. Fernanda
+57 + 10  = 67
+
+11. Alondra
+58 / 24  = 2
+
+12. Angela
+87 + 45  = 132
+
